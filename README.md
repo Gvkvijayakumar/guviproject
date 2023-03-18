@@ -1,2 +1,0 @@
-# guviproject
-Twitter scraping 
